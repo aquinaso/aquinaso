@@ -4,9 +4,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinaso&layout=compact">
   <br>
   <br>
+  <a href="https://aquinaso.github.io/">
   <img src="https://github.com/aquinaso/aquinaso/assets/121701523/7279a262-508c-4ded-a0fa-94f5eaf634c6" width="256" height="256">
   <br>
-  <a href="https://aquinaso.github.io/">지금, 여기(블로그)</a>
+  지금, 여기(블로그)</a>
 </div>
 
 <!--
