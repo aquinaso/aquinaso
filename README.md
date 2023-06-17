@@ -1,9 +1,10 @@
-### Hi there 👋
-#### on test
 ![banner_github](https://github.com/aquinaso/aquinaso/assets/121701523/e37c1a7e-3e3f-4068-9a33-08b750a4b952)
 
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinaso&layout=compact">
+  <br>
+  <br>
+  <img src="https://github.com/aquinaso/aquinaso/assets/121701523/7279a262-508c-4ded-a0fa-94f5eaf634c6" style="max-width: 30%; height: auto; border:1px solid #eaeaea; padding: 0px;">
   <br>
   <a href="https://aquinaso.github.io/">블로그</a>
 </div>
@@ -12,6 +13,9 @@
 **aquinaso/aquinaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
+#### on test
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
