@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### on test
 <div align='center'>
-  <img src="https://www.canva.com/design/DAFlt3FOdRU/_u0E8OxYbZM-AG15RdOc8A/view?utm_content=DAFlt3FOdRU&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
+  ![banner_github](https://github.com/aquinaso/aquinaso/assets/121701523/e37c1a7e-3e3f-4068-9a33-08b750a4b952)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinaso&layout=compact">
 </div>
 <!--
