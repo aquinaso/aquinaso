@@ -1,9 +1,10 @@
 ### Hi there 👋
 #### on test
 ![banner_github](https://github.com/aquinaso/aquinaso/assets/121701523/e37c1a7e-3e3f-4068-9a33-08b750a4b952)
-[![지금,여기](https://github.com/aquinaso/aquinaso/assets/121701523/7279a262-508c-4ded-a0fa-94f5eaf634c6)](https://aquinaso.github.io/)
+
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinaso&layout=compact">
+  <a href="https://aquinaso.github.io/"><img src="https://github.com/aquinaso/aquinaso/assets/121701523/7279a262-508c-4ded-a0fa-94f5eaf634c6"></a>
 </div>
 
 <!--
@@ -27,4 +28,7 @@ Here are some ideas to get you started:
 
 깃허브에 기여한 정도를 등급으로 나타냄
 <img src="https://github-readme-stats.vercel.app/api?username=aquinaso&show_icons=true">
+
+블로그
+[![지금,여기](https://github.com/aquinaso/aquinaso/assets/121701523/7279a262-508c-4ded-a0fa-94f5eaf634c6)](https://aquinaso.github.io/)
 -->
