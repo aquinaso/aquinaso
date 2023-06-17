@@ -1,7 +1,8 @@
 ### Hi there 👋
 #### on test
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinaso&layout=compact">
+  <img src="https://www.canva.com/design/DAFlt3FOdRU/_u0E8OxYbZM-AG15RdOc8A/view?utm_content=DAFlt3FOdRU&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinaso&layout=compact">
 </div>
 <!--
 **aquinaso/aquinaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
