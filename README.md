@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### on test
+![banner_github](https://github.com/aquinaso/aquinaso/assets/121701523/e37c1a7e-3e3f-4068-9a33-08b750a4b952)
 <div align='center'>
-  ![banner_github](https://github.com/aquinaso/aquinaso/assets/121701523/e37c1a7e-3e3f-4068-9a33-08b750a4b952)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinaso&layout=compact">
 </div>
 <!--
