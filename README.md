@@ -1,12 +1,10 @@
 ### Hi there 👋
 #### on test
 ![banner_github](https://github.com/aquinaso/aquinaso/assets/121701523/e37c1a7e-3e3f-4068-9a33-08b750a4b952)
-
+[![지금,여기](https://github.com/aquinaso/aquinaso/assets/121701523/7279a262-508c-4ded-a0fa-94f5eaf634c6)](https://aquinaso.github.io/)
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinaso&layout=compact">
 </div>
-
-[![지금,여기](https://github.com/aquinaso/aquinaso/assets/121701523/7279a262-508c-4ded-a0fa-94f5eaf634c6)](https://aquinaso.github.io/)
 
 <!--
 **aquinaso/aquinaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,17 +19,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-  
-<-- 위젯 목록
+이미지 링크
+[![텍스트](이미지URL이나 경로)](링크URL)
+
 깃허브에 사용한 언어를 백분율로 나타냄
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinaso&layout=compact">
 
 깃허브에 기여한 정도를 등급으로 나타냄
 <img src="https://github-readme-stats.vercel.app/api?username=aquinaso&show_icons=true">
--->
-
-<-- .md 
-이미지 링크
-[![텍스트](이미지URL이나 경로)](링크URL)
 -->
